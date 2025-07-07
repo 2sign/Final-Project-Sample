@@ -1,0 +1,117 @@
+[
+  {
+    "name": "🔴 P1: High",
+    "color": "ffb3b3",
+    "description": "가장 높은 우선순위의 이슈"
+  },
+  {
+    "name": "🟡 P2: Medium",
+    "color": "fff2cc",
+    "description": "중간 우선순위의 이슈"
+  },
+  {
+    "name": "🟢 P3: Low",
+    "color": "ccffcc",
+    "description": "우선순위가 낮은 이슈"
+  },
+  {
+    "name": "🐛 bug",
+    "color": "ffd6d6",
+    "description": "버그 수정이 필요한 이슈"
+  },
+  {
+    "name": "✨ enhancement",
+    "color": "cce7ff",
+    "description": "기존 기능 개선"
+  },
+  {
+    "name": "🚀 feature",
+    "color": "ccffdd",
+    "description": "새로운 기능 추가"
+  },
+  {
+    "name": "📝 documentation",
+    "color": "e0ccff",
+    "description": "문서와 관련된 이슈"
+  },
+  {
+    "name": "♻️ refactor",
+    "color": "ccffdd",
+    "description": "코드 리팩토링"
+  },
+  {
+    "name": "✅ test",
+    "color": "ccffdd",
+    "description": "테스트 코드 관련 이슈"
+  },
+  {
+    "name": "⏳ in progress",
+    "color": "fff8cc",
+    "description": "진행 중인 이슈"
+  },
+  {
+    "name": "👀 needs review",
+    "color": "e6d7ff",
+    "description": "검토가 필요한 이슈"
+  },
+  {
+    "name": "🚫 blocked",
+    "color": "ffcccc",
+    "description": "다른 작업에 의해 차단된 이슈"
+  },
+  {
+    "name": "🟢 easy",
+    "color": "d9ffcc",
+    "description": "초급 개발자가 해결할 수 있는 이슈"
+  },
+  {
+    "name": "🟡 medium",
+    "color": "fff5cc",
+    "description": "중간 난이도의 이슈"
+  },
+  {
+    "name": "🔴 hard",
+    "color": "ffe6e6",
+    "description": "고난이도의 이슈"
+  },
+  {
+    "name": "💻 frontend",
+    "color": "ffe6f0",
+    "description": "프론트엔드 관련 이슈"
+  },
+  {
+    "name": "⚙️ backend",
+    "color": "ccd9ff",
+    "description": "백엔드 관련 이슈"
+  },
+  {
+    "name": "🔗 API",
+    "color": "cce0ff",
+    "description": "API 관련 이슈"
+  },
+  {
+    "name": "🎨 UI/UX",
+    "color": "ffe6f2",
+    "description": "사용자 인터페이스 및 경험 관련 이슈"
+  },
+  {
+    "name": "🙋 help wanted",
+    "color": "cce3ff",
+    "description": "외부의 도움이 필요한 이슈"
+  },
+  {
+    "name": "❌ wontfix",
+    "color": "f2f2f2",
+    "description": "해결되지 않을 예정인 이슈"
+  },
+  {
+    "name": "🔄 duplicate",
+    "color": "e6e6e6",
+    "description": "중복된 이슈"
+  },
+  {
+    "name": "🚀 deploy",
+    "color": "d4ffcc",
+    "description": "배포 관련 이슈"
+  }
+]
